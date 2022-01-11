@@ -1,0 +1,6 @@
+/.vscode
+*.exe
+*.in
+*.out
+*USACO.cpp
+*template.cpp
